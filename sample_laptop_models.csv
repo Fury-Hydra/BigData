@@ -1,0 +1,11 @@
+Model_ID,Brand,Model_Name,Processor,RAM,Storage,Price
+101,Dell,Inspiron 15,Intel i5,8GB,512GB SSD,650
+102,HP,Pavilion 14,Intel i7,16GB,1TB HDD,750
+103,Apple,MacBook Pro 16,Apple M1,16GB,512GB SSD,2400
+104,Lenovo,ThinkPad X1,Intel i7,8GB,256GB SSD,1100
+105,Asus,VivoBook S14,AMD Ryzen 5,8GB,512GB SSD,700
+106,Acer,Aspire 7,Intel i5,8GB,1TB HDD,600
+107,Microsoft,Surface Laptop 4,AMD Ryzen 7,16GB,512GB SSD,1200
+108,Razer,Blade 15,Intel i9,32GB,1TB SSD,3000
+109,MSI,GF63 Thin,Intel i5,8GB,512GB SSD,900
+110,Samsung,Galaxy Book Pro,Intel i7,16GB,512GB SSD,950
